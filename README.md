@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 ***
 <div align = center> languages </div>
+<br>
 <div align = center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 
 
 <div align = center> frameworks </div>
+<br>
 <div align = center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> 

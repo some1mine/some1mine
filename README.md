@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
 </div>
-
+<br>
 
 <div align = center> databases </div>
 <br>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <br>
 </div>
+<br>
 
 
 <div align = center> frameworks </div>
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white"> 
   <br>
 </div>
+<br>
 
 
 <div align = center> tools </div>

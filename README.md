@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 
 <div align = center> tools </div>
+<br>
 <div align = center>  
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij%20IDEA&logoColor=white"> 

@@ -1,7 +1,7 @@
 # PARK JAEU 
 ***
 
-  [![Hits](https://hits.link/hits?url=https://github.com/some1mine)](https://hits.link)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=some1mine)
 
   <br>
   

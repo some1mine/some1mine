@@ -1,6 +1,6 @@
 # PARK JAEU 
 
-### 노력하여 기여하고 학습하여 발전하며 꾸준히 겸손하고 성장하는 개발자입니다
+### 노력하여 기여하고 학습하여 발전하는 꾸준히 겸손하고 성장하는 개발자입니다
 ***
 
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=some1mine)

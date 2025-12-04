@@ -7,7 +7,6 @@
 
   <br>
   
-[![Jaeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=some1mine)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=some1mine)](https://solved.ac/some1mine/)
 
 <!--

@@ -6,9 +6,9 @@
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=some1mine)
 
   <br>
-  
+  <div align = center> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=some1mine)](https://solved.ac/some1mine/)
-
+  </div>
 <!--
 **some1mine/some1mine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

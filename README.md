@@ -1,6 +1,7 @@
 # PARK JAEU 
 
-### 노력하여 기여하고 학습하여 발전하는 꾸준히 겸손하고 성장하는 개발자입니다
+### Cloud & Platform Engineer
+### Backend에서 시작해, 서비스가 안정적으로 배포되고 운영되는 과정에 관심을 넓혀가고 있습니다.
 ***
 
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=some1mine)

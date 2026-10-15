@@ -1,96 +1,40 @@
-# PARK JAEU 
+# 👋 안녕하세요, 인프라와 백엔드를 잇는 엔지니어 박재우입니다.
 
-### Cloud & Platform Engineer
-### Backend에서 시작해, 서비스가 안정적으로 배포되고 운영되는 과정에 관심을 넓혀가고 있습니다.
-***
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Infra-blue?style=flat-square&logo=googlecloud" alt="Focus" />
+  <img src="https://img.shields.io/badge/Background-Backend%20Engineering-green?style=flat-square&logo=spring" alt="Background" />
+</p>
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=some1mine)
+> 애플리케이션 서비스의 동작 원리를 이해하고, 네트워크 및 가상화 계층부터 클라우드 오케스트레이션까지 유기적으로 분석하여 시스템 안정성을 극대화합니다.
 
-  <br>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=some1mine)](https://solved.ac/some1mine/)
-  
-<!--
-**some1mine/some1mine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- **Infra & Cloud Engineering**: OpenStack을 활용한 온프레미스/사설 클라우드 환경 구축, Kubernetes/EKS 클러스터 관리 및 Istio·KEDA 기반 트래픽 라우팅/오토스케일링을 다룹니다.
+- **Backend Background**: Java/Spring Boot 기반 실무 개발 경험을 토대로, L4/L7 계층 간 통신 이슈나 시스템 병목 현상을 양방향 관점에서 추적하고 해결합니다.
+- **Problem Solving & Automation**: 장애 상황 시 네트워크 패킷 흐름과 로그를 순차적으로 역추적하여 근본 원인을 해결하고, 이를 자동화(IaC) 코드로 구현하는 데 집중합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-***
+---
 
-<a href="https://github.com/devxb/gitanimals" align="center">
-  <img src="https://render.gitanimals.org/lines/{some1mine}?pet-id=1" width="1000" height="120"/>
-</a>
+### 🛠 Tech Stack
 
-<div align = center> languages </div>
-<br>
-<div align = center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-</div>
-<br>
+| 분류 | 기술 스택 |
+| :--- | :--- |
+| **Cloud & Virtualization** | OpenStack, AWS (EKS, VPC, Peering), Docker, Kubernetes |
+| **IaC & Config Management** | Ansible (Kolla-Ansible), Terraform |
+| **Networking & Security** | Linux Networking, Cloudflare Tunnel, VPN (WireGuard), VPC Peering, Istio |
+| **Observability & Logging** | Prometheus, PromQL, ELK Stack |
+| **Backend & Database** | Java, Spring Boot, MySQL, MongoDB |
 
-<div align = center> databases </div>
-<br>
-<div align = center> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <br>
-</div>
-<br>
+---
 
+### 📂 Featured Projects
+- 🌐 **[Private Cloud via OpenStack & Cloudflare Tunnel](#)**: Kolla-Ansible 기반 가상화 플랫폼 구축 및 인그레스 보안 터널링 환경 마련
+- ☸️ **[Kubernetes/EKS Traffic & Autoscaling Lab](#)**: EKS, Istio 서비스 메시 및 KEDA를 이용한 클러스터 리소스 최적화 및 배포 제어
+- 📚 **[독서교육종합지원시스템 재개발](#)**: 공공 교육 플랫폼 대규모 트래픽 백엔드 API 및 에듀넷 SSO 인증 연동 개발
 
-<div align = center> frameworks </div>
-<br>
-<div align = center> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white"> 
-  <br>
-</div>
-<br>
+---
 
-
-<div align = center> tools </div>
-<br>
-<div align = center>  
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij%20IDEA&logoColor=white"> 
-  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-</div>
-
-<div align = center> Infrastructure </div>
-<br>
-<div align = center>  
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> 
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-</div>
-
-
-<div align = center> CI/CD </div>
-<br>
-<div align = center>  
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
-</div>
-
-<div align = center> Observability </div>
-<br>
-<div align = center>  
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> 
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-</div>
+### 📬 Contact
+- **Email**: parkjw573@naver.com
+- **Blog/Notion**: (추가 링크가 있다면 기재)

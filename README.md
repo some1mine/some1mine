@@ -33,5 +33,5 @@
 ---
 
 ### 🔗 Related Account & Contact
-- **Backend & Archive Account**: [@thedeny1106](https://github.com/thedeny1106) (백엔드 실무, CS 및 알고리즘 저장소)[cite: 2, 3]
+- **Backend & Archive Account**: [@thedeny1106](https://github.com/thedeny1106) (인프라 실습 및 프로젝트)[cite: 2, 3]
 - **Email**: parkjw573@naver.com[cite: 1]

@@ -8,7 +8,7 @@
 - **Languages**: Java, Python, SQL
 - **Frameworks & Core**: Spring, Spring Boot, JPA
 - **Databases**: MySQL, MongoDB, Redis
-- **Certificates**: 정보처리기사, 빅데이터분석기사, 리눅스마스터 2급, 사회조사분석사 2급
+- **Certificates**: 정보처리기사, 빅데이터분석기사, 리눅스마스터 2급, 사회조사분석사 2급, 컴퓨터활용능력 1급, SQLD, AdSP, 사무자동화산업기사, 워드프로세서
 
 ---
 
